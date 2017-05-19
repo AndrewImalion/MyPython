@@ -41,7 +41,7 @@ header = {
     'Accept-Encoding': 'gzip, deflate',
     'Host': '211.87.157.37',
     'DNT': '1'
-}#interactive warns here
+}#Chrome
 
 url="http://211.87.157.37"
 opener=getOpener(header)
